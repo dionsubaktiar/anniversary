@@ -106,11 +106,11 @@ body{
     .button a{
         font-size: .5rem;
     }
+    .btn{margin-bottom:7px;}
     .button-container{
         display: flex;
         flex-direction: column;
         justify-content: center;
         align-items: center;
-        margin-bottom:10px;
     }
 }
